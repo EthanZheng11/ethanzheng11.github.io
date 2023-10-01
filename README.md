@@ -9,5 +9,10 @@ This repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.
 
 ![image](https://github.com/EthanZheng11/ethanzheng11.github.io/assets/77181471/d07ee05e-793f-4226-85fc-0db75590a6c1)
 
+## Activity 3
+![image](https://github.com/EthanZheng11/ethanzheng11.github.io/assets/77181471/c1c77dd8-b185-426c-8611-c1985882e785)
+
+![image](https://github.com/EthanZheng11/ethanzheng11.github.io/assets/77181471/0df4c1e5-5c4f-45c9-b265-c52e6f0f87fb)
+
 
 
