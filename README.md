@@ -14,5 +14,10 @@ This repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.
 
 ![image](https://github.com/EthanZheng11/ethanzheng11.github.io/assets/77181471/0df4c1e5-5c4f-45c9-b265-c52e6f0f87fb)
 
+## Activity 4
+![image](https://github.com/EthanZheng11/ethanzheng11.github.io/assets/77181471/edf47236-ee88-48a2-a1f0-3be0282345dd)
+
+![image](https://github.com/EthanZheng11/ethanzheng11.github.io/assets/77181471/613ce66c-2a57-4926-8bb2-647e084baf91)
+
 
 
